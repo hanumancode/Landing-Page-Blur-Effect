@@ -89,3 +89,10 @@ body {
     color: #f4f4f4;
 }
 
+footer {
+    padding: 2.2rem;
+}
+
+footer p {
+    margin: 0;
+}
