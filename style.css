@@ -122,3 +122,12 @@ footer p {
     }
 }
 
+/* Landscape */
+@media (max-height: 500px) {
+    .content .title, .content .text {
+        display: none;
+    }
+    .content {
+        top: 0;
+    }
+}
